@@ -1,6 +1,3 @@
-# SEO-Steps
-Steps to boost your SEO rankings in YouTube &amp;amp; beyond.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1>SEO Steps</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -26,9 +23,25 @@ search engine results pages (SERPs)</a>.</p>
 and ongoing analysis. Below are key tactics, tips, and steps to consider when developing 
 an SEO strategy:</p>
 <ul>
-  <li>Audit and Benchmark Current Site Performance: conduct a comprehensive site audit to identify strengths, weaknesses, and technical SEO issues such as broken links, slow page speeds, and mobile usability. Benchmark existing metrics to establish baseline traffic, keyword rankings, and conversion rates using tools like Google Analytics, Search Console, and SEO software (e.g., Ahrefs, SEMrush). Additionally, perform a content inventory to evaluate which pages perform well and identify those needing updates or consolidation.</li>
-  <li>Competitor Analysis: identify competitors by assessing which websites rank for your target keywords. Analyze their content, including structure, depth, and keyword usage on high-ranking pages. Use tools to discover where competitors are obtaining quality backlinks and uncover link-building opportunities. Pinpoint topics or keywords your competitors cover that you haven't addressed, and create unique content to fill those gaps.</li>
-  <li>Keyword Research and Intent Mapping: use a combination of keyword research tools such as Google Keyword Planner, SEMrush, Ahrefs, and AnswerThePublic to build a comprehensive keyword list. Focus on finding low-competition keywords that align with user intent and create targeted content around them. Develop topic clusters by creating pillar pages connected to detailed subtopic content to improve site structure and authority on key topics.</li>
+  <li><i>Audit and Benchmark Current Site Performance</i>: conduct a comprehensive site 
+    audit to identify strengths, weaknesses, and technical SEO issues such as broken 
+	links, slow page speeds, and mobile usability. Benchmark existing metrics to 
+	establish baseline traffic, keyword rankings, and conversion rates using tools like 
+	Google Analytics, Search Console, and SEO software (e.g., Ahrefs, SEMrush). 
+	Additionally, perform a content inventory to evaluate which pages perform well and 
+	identify those needing updates or consolidation.</li>
+  <li><i>Competitor Analysis</i>: identify competitors by assessing which websites rank 
+    for your target keywords. Analyze their content, including structure, depth, and 
+	keyword usage on high-ranking pages. Use tools to discover where competitors are 
+	obtaining quality backlinks and uncover link-building opportunities. Pinpoint 
+	topics or keywords your competitors cover that you haven't addressed, and create 
+	unique content to fill those gaps.</li>
+  <li><i>Keyword Research and Intent Mapping</i>: use a combination of keyword research 
+    tools such as Google Keyword Planner, SEMrush, Ahrefs, and AnswerThePublic to build 
+	a comprehensive keyword list. Focus on finding low-competition keywords that align 
+	with user intent and create targeted content around them. Develop topic clusters 
+	by creating pillar pages connected to detailed subtopic content to improve site 
+	structure and authority on key topics.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="S02">2. Publish Relevant, Authoritative Content</h2>
@@ -37,12 +50,12 @@ an SEO strategy:</p>
 Google and other search engines. Quality, authoritative, authentic content is the number 
 one driver of your search engine rankings and there is no substitute for great content—
 this is especially true when doing <a href="https://www.mtu.edu/umc/services/websites/seo/marketing/" 
-target="_blank" rel="noopener noreferrer">SEO marketing</a>. Quality content created specifically 
-for your intended user increases site traffic, which improves your site's authority and 
-relevance. Fine-tune your <a href="https://www.mtu.edu/umc/services/websites/writing/" 
-target="_blank" rel="noopener noreferrer">web writing skills</a> and present yourself as an authority on 
-the topic you are writing about. Using your SEO strategy, develop or redevelop content 
-to improve your rankings.</p>
+target="_blank" rel="noopener noreferrer">SEO marketing</a>. Quality content created 
+specifically for your intended user increases site traffic, which improves your site's 
+authority and relevance. Fine-tune your <a href="https://www.mtu.edu/umc/services/websites/writing/" 
+target="_blank" rel="noopener noreferrer">web writing skills</a> and present yourself as 
+an authority on the topic you are writing about. Using your SEO strategy, develop or 
+redevelop content to improve your rankings.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Keywords</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -95,7 +108,7 @@ make a <b>separate webpage</b> for each keyword phrase you are targeting.</p>
    target="_blank" rel="noopener noreferrer">headings and subheadings</a>?</li>
 </ol>
 <p>Answering <i>yes</i> to these questions can improve your search engine ranking. 
-Be <b>natural and user-friendly</a>, though. For instance, you do not want the word 
+Be <b>natural and user-friendly</b>, though. For instance, you do not want the word 
 "engineering" to show up three or more times in the URL or have the phrase Northern 
 Lights repeated in the page title and also every heading. Readability and usability 
 still trump search engine optimization.</p>
@@ -114,17 +127,24 @@ improving your SEO.</p>
 <h3>Experience and Expertise</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>When developing your content, it is especially important to lend your <b>experiences</b> 
-and your <b>expertise</b> to your target audience. This will help your content stand out against everyone else's—including the plethora of content being created by generative artificial intelligence (AI) each day. Experiences and expertise builds credibility, engages users, and fosters long-term success. It aligns with search engines' goals of delivering <b>high-quality, relevant information</b> to users and can contribute to a strong online presence and improved SEO performance.</p>
+and your <b>expertise</b> to your target audience. This will help your content stand out 
+against everyone else's—including the plethora of content being created by generative 
+artificial intelligence (AI) each day. Experiences and expertise builds credibility, 
+engages users, and fosters long-term success. It aligns with search engines' goals of 
+delivering <b>high-quality, relevant information</b> to users and can contribute to 
+a strong online presence and improved SEO performance.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>SEO Formatting</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Don't forget to use <b>bold</b>, <i>italics</i>, 
-<a href="https://www.mtu.edu/accessibility/training/web/headings/" target="_blank" rel="noopener noreferrer">
-heading tags</a> (especially an H1), and other emphasis tags to highlight these keyword phrases—but don't overdo 
-it. You still want your language and writing style to read naturally. Never sacrifice good writing for SEO. The 
-best pages are written for the <b>user</b>, not for the search engine. Read more about 
-<a href="https://www.mtu.edu/umc/services/websites/seo/marketing/" target="_blank" rel="noopener noreferrer">
-SEO marketing</a> to help you find new content opportunities.</p>
+<a href="https://www.mtu.edu/accessibility/training/web/headings/" target="_blank" 
+rel="noopener noreferrer">heading tags</a> (especially an H1), and other emphasis 
+tags to highlight these keyword phrases—but don't overdo it. You still want your 
+language and writing style to read naturally. Never sacrifice good writing for 
+SEO. The best pages are written for the <b>user</b>, not for the search engine. 
+Read more about <a href="https://www.mtu.edu/umc/services/websites/seo/marketing/" 
+target="_blank" rel="noopener noreferrer">SEO marketing</a> to help you find new 
+content opportunities.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="S03">3. Update Your Content Regularly</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -152,46 +172,50 @@ changes over time.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Title Metadata</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<b>Title metadata</b> is responsible for the page titles displayed at the top of a browser window and as the headline within search engine results. It is the most important metadata on your page.
+<p><b>Title metadata</b> is responsible for the page titles displayed at the top of a browser 
+window and as the headline within search engine results. It is the most important metadata 
+on your page.</p>
 
-For those with a CMS website, the web team has developed an automated system for creating the meta title for each webpage based on your page title. This adds to the importance of using well-thought-out page titles rich with <b>keyword phrases</b>.
-
+<p>For those with a CMS website, the web team has developed an automated system for 
+creating the meta title for each webpage based on your page title. This adds to the 
+importance of using well-thought-out page titles rich with <b>keyword phrases</b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Description Metadata</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<b>Description metadata</b> is the textual description that a browser may use in 
+<p><b>Description metadata</b> is the textual description that a browser may use in 
 your page search return. Think of it as your site's window display—a concise and 
 appealing description of what is contained within, with the goal of encouraging 
 people to enter. A good meta description will typically contain two full sentences. 
 Search engines may not always use your meta description, but it is important to 
-give them the option.
+give them the option.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Keyword Metadata</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<b>Keyword metadata</b> is rarely if ever used to tabulate search engine rankings. 
+<p><b>Keyword metadata</b> is rarely if ever used to tabulate search engine rankings. 
 However, you should already know your keyword phrases, so it doesn't hurt to add 
 them into your keyword metadata. You'll want to include a variety of phrases. As 
 a general rule, try to keep it to about 3-7 phrases with each phrase consisting 
-of 1-4 words. A great example would be "computer science degree."
+of 1-4 words. A great example would be "computer science degree."</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Use alt tags</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Always describe your image and video media using alt tags, or alternative text 
+<p>Always describe your image and video media using alt tags, or alternative text 
 descriptions. They allow search engines to locate your page, which is crucial—
-especially for those who use text-only browsers or screen readers.
+especially for those who use text-only browsers or screen readers.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Use Schema.org Markup</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-While Google and other search engines are advanced at understanding content, we have 
-found that implementing <a href="https://schema.org/" target="_blank" rel="noopener noreferrer">
-Schema.org markup</a> on our webpages—especially published and modified dates—has helped our content 
-crawl and recrawl rates and has influenced how our content shows up in SERPs.
+<p>While Google and other search engines are advanced at understanding content, we have 
+found that implementing <a href="https://schema.org/" target="_blank" rel="noopener 
+noreferrer">Schema.org markup</a> on our webpages—especially published and modified 
+dates—has helped our content crawl and recrawl rates and has influenced how our content 
+shows up in SERPs.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="S04">4. Have a Link-Worthy Site</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-A webpage that is content-rich, authoritative, unbiased, and helps visitors 
+<p>A webpage that is content-rich, authoritative, unbiased, and helps visitors 
 learn more about what they are interested in is most likely to attract links 
-from other websites, which improves your search engine optimization.
+from other websites, which improves your search engine optimization.</p>
 
 <p>Improve your authority and credibility by adding relevant links within the text. Instead 
 of having "click here" links, try writing out the name of the destination. "Click here" 
@@ -215,7 +239,6 @@ analytics.</p>
 
 <p>Now, you are able to optimize your content to make improvements, rise up the rankings, 
 and serve your target audience.</p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Why Prioritize Content Creation Over Off-Page SEO?</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
